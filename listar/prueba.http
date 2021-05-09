@@ -3,5 +3,5 @@ POST http://127.0.0.1:8000/api/listar/
 Content-Type: application/json
 
 {
-    "maximo": 4
+    "cantidad": 4
 }
